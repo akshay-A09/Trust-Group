@@ -104,7 +104,6 @@
 <p>109/110, Balarama, Bandra Kurla Complex, Bandra (East), Mumbai-400 051</p> 
 <p><b>Board No. <a href="telto:+91 22 40626000">+91 22 40626000</b></a></p>
 <p><b>Fax No. <a href="telto:+91 22 40626000">+91 224062005</b></a></p>
-<p class="enq-now"><a href="#" class="textGold">View in Map</a></p>
 </div>
 
 </div>
@@ -112,14 +111,25 @@
 <div class="accordion-item">
 <h3 class="accordion-thumb">Mumbai (Corporate Office)</h3>
 <div class="accordion-panel">
-test
+<p>1101, C-31, Naman Centre,Bandra Kurla Complex,Bandra (East), Mumbai -400 051,</p> 
+<p><b>Board No. <a href="telto:+91 22 40626000">+91 22 40845000</b></a></p>
 </div>
 </div>
 
 <div class="accordion-item">
 <h3 class="accordion-thumb">Bangalore</h3>
 <div class="accordion-panel">
-test
+<p>3rd Floor, Unit no 305, Prestige Meridian II, MG Road, Bangalore - 560001</p> 
+<p><b>Parag Kulkarni <a href="telto:+91 22 40626000">+91 80 42622115</b></a></p>
+</div>
+</div>
+
+
+<div class="accordion-item">
+<h3 class="accordion-thumb">Hyderabad</h3>
+<div class="accordion-panel">
+<p>Cabin No: 4 B, Apeejay Business Centre, 1st Floor, The Park - 22, Raj Bhavan Road, Hyderabad- 500082</p> 
+<p><b>Kailash Saxena<a href="telto:+91 22 40626000">+91 40 66846061 / 9581000224 </b></a></p>
 </div>
 </div>
 
@@ -127,7 +137,8 @@ test
 <div class="accordion-item">
 <h3 class="accordion-thumb">Vijayawada</h3>
 <div class="accordion-panel">
-test
+<p>2nd Floor, Door No 40-6/3-3, Co-Operative Bank Colony, Moghalrajpuram, Vijayawada, Andhra Pradesh- 520010</p> 
+<p><b>Kailash Saxena <a href="telto:+91 22 40626000">+91 40 66846061 / 9581000224</b></a></p>
 </div>
 </div>
 
@@ -136,7 +147,8 @@ test
 <div class="accordion-item">
 <h3 class="accordion-thumb">Pune</h3>
 <div class="accordion-panel">
-test
+<p>Unit No 307,3rd Floor, Amar Neptune, Behind Amar Genesis, Survey No. 6/1/1&6 /14, Plot No 45A & 46, Situated in Village Baner Taluka Haveli,Pune-45</p> 
+<p><b>Abhijt Narvelkar <a href="telto:+91 22 40626000">+91-20-67445357/ +91-20-67445358 / +91 9850830608 </b></a></p>
 </div>
 </div>
 
@@ -150,28 +162,32 @@ test
 <div class="accordion-item">
 <h3 class="accordion-thumb textGold">Bharuch</h3>
 <div class="accordion-panel">
-test
+<p>Bungalow No.3, Utkarsh Society, Behind Polytechnic College, Bharuch- 392002</p> 
+<p><b>Julie Shah<a href="telto:+91 22 40626000">+91 9825085705</b></a></p>
 </div>
 </div>
 
 <div class="accordion-item">
 <h3 class="accordion-thumb textGold">Kolkata</h3>
 <div class="accordion-panel">
-test
+<p>Room No. 64, Chitrakoot, 230/A, Acharya Jagdish Chandra Bose Road, Kolkata- 700020</p> 
+<p><b>Dushyant Lalwani<a href="telto:+91 22 40626000">+91 33 40845014 / 15</b></a></p>
 </div>
 </div>
 
 <div class="accordion-item">
 <h3 class="accordion-thumb textGold">Delhi</h3>
 <div class="accordion-panel">
-test
+<p>912-915, 9th Floor, Tolstoy House, 15-17, Tolstoy Marg, New Delhi 110001.</p> 
+<p><b>Sanjeev Jain<a href="telto:+91 22 40626000">+91 11 43554000 </b></a></p>
 </div>
 </div>
 
 <div class="accordion-item">
 <h3 class="accordion-thumb textGold">Ahmedabad</h3>
 <div class="accordion-panel">
-test
+<p>006, Ground Floor, Sakar -IV, Opp. Town Hall, Ellis Bridge, Ashram Road, Ahmedabad -380 009</p> 
+<p><b>Kaushal Modi<a href="telto:+91 22 40626000">+91 79 48953606/ +91 79 48953607</b></a></p>
 </div>
 </div>
 
@@ -179,7 +195,8 @@ test
 <h3 class="accordion-thumb textGold">Chennai</h3>
 <div class="accordion-panel">
 <div class="accordion-panel">
-test
+<p>M/s. Trust Group, Sakthi Towers, 2H Second Floor, Tower 2, 766, Anna Salai, Chennai - 600 002.</p> 
+<p><b>Board No:<a href="telto:+91 22 40626000">044 - 69185000</b></a></p>
 </div>
 </div>
 </div>
@@ -406,14 +423,15 @@ test
 <section><div class="container">
 
 <!-- heading -->
-<h2 class="heading">Mutual fund</h2>
+<h2 class="heading">Mutual Fund</h2>
 <!-- heading/ -->
 
 <div class="df space-bet">
 
-<div class="contact-box w-100">
+<div class="contact-box w-100 df">
   <div class="contact-info-text">
-<h2 class="textGold center">Contact Info</h2>
+<h2 class="textGold center heading">Contact Info</h2>
+<hr class="line">
 <h3><a href="telto:022 - 6274 6000">T: 022 - 6274 6000</a></h3>
 <h3><a href="telto:1800 267 7878">T: 1800 267 7878 (Toll Free No.)</a></h3>
 <h3><a href="telto:investor.service@trustmf.com">E: investor.service@trustmf.com</a></h3>

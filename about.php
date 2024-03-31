@@ -10,9 +10,6 @@
 <?php include 'header.php'; ?>
 <main>
 
-
-
-
 <!-- About -->
 <section class="aboutMain"><div class="container"><div class="about_wrapper df g-20">
 <div class="about_wrapper_left  w-90 wow fadeInUp"  id="aboutSection">
@@ -22,7 +19,7 @@
 
     <p>Partnership with clients. Value-creation beyond transaction. Longevity and long-term perspective. Above all, CLIENT FIRST. This is our DNA.</p>
 
-    <ul class="aboutUl">
+    <ul class="aboutUl countList">
     <li>
             <h2><span class="count">20</span>+</h2>
             <p>Years of Wealth<br> Creation</p>
@@ -55,7 +52,7 @@
 <div class="about_wrapper_right w-100 m-0">
    
 <div class="aboutVideo wow fadeInUp">
-    <a href="#"><div style="background-image: url(assets/images/trust-video.jpg);"></div></a>
+    <a href="https://youtu.be/eLJDsn5XOb4?si=a7CT7WpggdeIcRFu" data-fancybox><div style="background-image: url(assets/images/trust-video.jpg);"></div></a>
 </div>
 
 </div>
@@ -107,7 +104,7 @@ For a Sustainable <span>Future,</span> In Partnership. With <span>Trust</span></
 <!-- Chairman’s Message End -->
 
 <!-- Leadership Team -->
-<section class="leadershipTeam"><div class="container">
+<section class="leadershipTeam" id="Leadership"><div class="container">
     <h5 class="heading_top tu textGold wow fadeInUp">Our team</h5>
     <h2 class="heading wow fadeInUp">Leadership Team</h2>
 
@@ -195,7 +192,7 @@ For a Sustainable <span>Future,</span> In Partnership. With <span>Trust</span></
 
 
 <!-- Our History -->
-<section class="ourHistory"><div class="container pr">
+<section class="ourHistory" id="OurHistory"><div class="container pr">
 
 <h5 class="heading_top tu textGold wow fadeInUp">Our History</h5>
 <h2 class="heading wow fadeInUp">With over 20 years of experience,<br>

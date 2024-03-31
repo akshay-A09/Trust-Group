@@ -5,10 +5,10 @@
         <div class="right_h">
             <div class="top_nav">
                 <ul>
-                    <li><a href="/">Corporate Structure & License</a></li>
-                    <li><a href="/">Insights</a></li>
+                    <li><a href="<?php echo $base_url; ?>corporate-structure-and-license.php">Corporate Structure & License</a></li>
+                    <li><a href="<?php echo $base_url; ?>insights.php">Insights</a></li>
                     <li><a href="<?php echo $base_url; ?>careers.php">Careers</a></li>
-                    <li><a href="/">Downloads</a></li>
+                    <li><a href="<?php echo $base_url; ?>downloads.php">Downloads</a></li>
                     <li class="login"><a href="/">Login</a></li>
                 </ul>
             </div>
@@ -31,8 +31,8 @@
                 </div>
 
                 <div class="nav_btns">
-                    <a href="/" class="btn092 btnWhite"><span>Downloads</span></a> 
-                    <a href="/" class="btn092 btnWhite"><span>Connect</span></a>
+                    <a href="<?php echo $base_url; ?>downloads.php" class="btn092 btnWhite"><span>Downloads</span></a> 
+                    <a href="<?php echo $base_url; ?>connect.php" class="btn092 btnWhite"><span>Connect</span></a>
                     <a href="/" class="btn092 btnWhite"><span>Login</span></a>
                 </div>
 
@@ -46,39 +46,50 @@
 
 <!-- About tab -->
 <div id="about-Tab" class="navdata"><div class="container"><div class="navdata_wrapper">
-
-
 <div class="title-bar">
-<h2 class="heading_H">The Group <i class="fa-solid fa-arrow-right arrowR"></i></h2>
+<h2 class="heading_H">About Us <i class="fa-solid fa-arrow-right arrowR"></i></h2>
 </div>
-
 <hr class="line lineBlack"/>
-
 <div class="navdata_content">
 <div class="navdata_item"><a href="<?php echo $base_url; ?>about.php">
-<h2 class="heading_Hs">About <i class="fa-solid fa-arrow-right arrowR"></i></h2>
-<p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
-</a></div>
-<div class="navdata_item"><a href="#">
 <h2 class="heading_Hs">Awards & Recognition <i class="fa-solid fa-arrow-right arrowR"></i></h2>
 <p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
 </a></div>
-<div class="navdata_item"><a href="#">
-<h2 class="heading_Hs">TRUST Plutus <i class="fa-solid fa-arrow-right arrowR"></i></h2>
-<p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
-</a></div>
-<div class="navdata_item"><a href="#">
+
+<div class="navdata_item"><a href="<?php echo $base_url; ?>about.php#Leadership">
 <h2 class="heading_Hs">Leadership <i class="fa-solid fa-arrow-right arrowR"></i></h2>
 <p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
 </a></div>
 
-<div class="navdata_item"><a href="#">
+<div class="navdata_item"><a href="<?php echo $base_url; ?>about.php#OurHistory">
 <h2 class="heading_Hs">Our History <i class="fa-solid fa-arrow-right arrowR"></i></h2>
 <p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
 </a></div>
 </div>
 </div></div></div>
 <!-- About tab End-->
+
+
+<!-- What We Do tab -->
+<div id="what_we_do-Tab" class="navdata"><div class="container"><div class="navdata_wrapper">
+<div class="title-bar">
+<h2 class="heading_H">What We Do <i class="fa-solid fa-arrow-right arrowR"></i></h2>
+</div>
+<hr class="line lineBlack"/>
+<div class="navdata_content">
+<div class="navdata_item"><a href="<?php echo $base_url; ?>businesses/debt-capital-market.php">
+<h2 class="heading_Hs">Debt Capital Markets <i class="fa-solid fa-arrow-right arrowR"></i></h2>
+<p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
+</a></div>
+
+<div class="navdata_item"><a href="<?php echo $base_url; ?>businesses/asset-management-and-advisory.php">
+<h2 class="heading_Hs">Advisory & Asset Management  <i class="fa-solid fa-arrow-right arrowR"></i></h2>
+<p>Investment banking at TRUST is not just about transactions. We offer comprehensive.</p>
+</a></div>
+
+</div>
+</div></div></div>
+<!-- What We Do tab End-->
 
 
 

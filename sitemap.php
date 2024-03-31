@@ -62,7 +62,7 @@ a{color:#AF8315; font-weight:bold ;}
 <td align="center">5</td>
 <td>Mutual Fund</td>
 <td align="center"><a href="https://figma.com/proto/uJ8HspqIZBNxdLf62gRnyN/Trust-Group?page-id=0%3A1&type=design&node-id=768-705&viewport=-221%2C388%2C0.47&t=2wndKgcJzWyLA5WC-1&scaling=contain&show-proto-sidebar=1&starting-point-node-id=768%3A705" target="_blank">Design Link</a></td>
-<td align="center"><a href="<?php echo $base_url; ?>"  class="disabled" target="_blank">Page Link</a></td>
+<td align="center"><a href="<?php echo $base_url; ?>trust-mutual-fund.php"  target="_blank">Page Link</a></td>
 </tr>
 
 <tr>
@@ -130,9 +130,9 @@ a{color:#AF8315; font-weight:bold ;}
 
 <tr>
 <td align="center">15</td>
-<td>Advisory Wealth and Asset Management</td>
+<td>Asset Management & Advisory</td>
 <td align="center"><a href="https://figma.com/proto/uJ8HspqIZBNxdLf62gRnyN/Trust-Group?page-id=0%3A1&type=design&node-id=698-277&viewport=-221%2C388%2C0.47&t=2wndKgcJzWyLA5WC-1&scaling=contain&show-proto-sidebar=1&starting-point-node-id=698%3A277" target="_blank">Design Link</a></td>
-<td align="center"><a href="<?php echo $base_url; ?>"  class="disabled" target="_blank">Page Link</a></td>
+<td align="center"><a href="<?php echo $base_url; ?>businesses/asset-management-and-advisory.php"  target="_blank">Page Link</a></td>
 </tr>
 
 

@@ -4,9 +4,9 @@
 
 <div class="footer_logos">
     <ul>
-        <li><a href="/"><img src="<?php echo $base_url; ?>assets/images/logos/trust-group.png"></a></li>
-        <li><a href="/"><img src="<?php echo $base_url; ?>assets/images/logos/trust-mutual_fund.png"></a></li>
-        <li><a href="/"><img src="<?php echo $base_url; ?>assets/images/logos/trust_plutus.png"></a></li>
+        <li><a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/images/logos/trust-group.png"></a></li>
+        <li><a href="<?php echo $base_url; ?>trust-mutual-fund.php"><img src="<?php echo $base_url; ?>assets/images/logos/trust-mutual_fund.png"></a></li>
+        <li><a href="<?php echo $base_url; ?>"><img src="<?php echo $base_url; ?>assets/images/logos/trust_plutus.png"></a></li>
 
     </ul>
 </div>
@@ -27,41 +27,40 @@
 <div class="footer_links_wrapper accordion">
 
     <div class="footer_links accordion-item is-active">
-    <h3 class="accordion-thumb heading_f">The Group</h3>
+    <h3 class="accordion-thumb heading_f">About Us</h3>
         <ul class="accordion-panel">
-            <li><a href="/">About</a></li>
-            <li><a href="/">Leadership</a></li>
-            <li><a href="/">Awards & Recognition</a></li>
-            <li><a href="/">Our History</a></li>
+            <li><a href="<?php echo $base_url; ?>about.php#Leadership">Leadership</a></li>
+            <li><a href="<?php echo $base_url; ?>about.php">Awards & Recognition</a></li>
+            <li><a href="<?php echo $base_url; ?>about.php#OurHistory">Our History</a></li>
         </ul>
     </div>
     
     <div class="footer_links accordion-item">
     <h3 class="accordion-thumb heading_f">What We Do</h3>
         <ul class="accordion-panel">
-            <li><a href="/">Investment Banking Solution</a></li>
-            <li><a href="/">Capital Market Services</a></li>
-            <li><a href="/">Asset Management & Advisory</a></li>
-            <li><a href="/">Wealth Management</a></li>
+            <li><a href="#">Investment Banking Solution</a></li>
+            <li><a href="<?php echo $base_url; ?>businesses/debt-capital-market.php">Capital Market Services</a></li>
+            <li><a href="<?php echo $base_url; ?>businesses/asset-management-and-advisory.php">Asset Management & Advisory</a></li>
+            <li><a href="#">Wealth Management</a></li>
         </ul>
     </div>
     
     <div class="footer_links accordion-item">
     <h3 class="accordion-thumb heading_f">Research</h3>
         <ul class="accordion-panel">
-            <li><a href="/">Credit Research</a></li>
-            <li><a href="/">Rates Research</a></li>
-            <li><a href="/">Rates Research</a></li>
+            <li><a href="<?php echo $base_url; ?>research.php">Credit Research</a></li>
+            <li><a href="<?php echo $base_url; ?>research.php">Rates Research</a></li>
+            <li><a href="<?php echo $base_url; ?>research.php">Rates Research</a></li>
         </ul>
     </div>
     
     <div class="footer_links accordion-item">
     <h3 class="accordion-thumb heading_f">Insights</h3>
         <ul class="accordion-panel">
-            <li><a href="/">News</a></li>
-            <li><a href="/">Articles</a></li>
-            <li><a href="/">Events</a></li>
-            <li><a href="/">Blogs</a></li>
+            <li><a href="<?php echo $base_url; ?>insights.php"">News</a></li>
+            <li><a href="<?php echo $base_url; ?>insights.php"">Articles</a></li>
+            <li><a href="<?php echo $base_url; ?>insights.php"">Events</a></li>
+            <li><a href="<?php echo $base_url; ?>insights.php"">Blogs</a></li>
         </ul>
     </div>
 
@@ -69,10 +68,10 @@
     <div class="footer_links accordion-item">
     <h3 class="accordion-thumb heading_f">Quick Links</h3>
         <ul class="accordion-panel">
-            <li><a href="/">Corporate Structure & License</a></li>
-            <li><a href="/">Careers</a></li>
-            <li><a href="/">Downloads</a></li>
-            <li><a href="/">Contact Us</a></li>
+            <li><a href="<?php echo $base_url; ?>corporate-structure-and-license.php">Corporate Structure & License</a></li>
+            <li><a href="<?php echo $base_url; ?>careers.php">Careers</a></li>
+            <li><a href="<?php echo $base_url; ?>downloads.php">Downloads</a></li>
+            <li><a href="<?php echo $base_url; ?>connect.php">Contact Us</a></li>
         </ul>
     </div>
 </div>
@@ -177,11 +176,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"/>
-
-
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 <script>
 new WOW().init();
 </script>
+
 <!-- JS End-->

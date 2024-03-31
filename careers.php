@@ -16,12 +16,12 @@
 <!-- About -->
 <section class="aboutMain backBG_work">
 
-
+<div class="backBG_work_img">
+  <img src="assets/images/trust.jpg" style="object-position: center left;">
+</div>
 
 <div class="container pr">
-<div class="crt_logo">
-    <img src="assets/images/logos/great_place_to_work.png" alt="">
-</div>
+
 <div class="about_wrapper df g-20">
 <div class="about_wrapper_left  w-50 m-0">
     <h5 class="heading_top tu textGold">Work With Us</h5>
@@ -37,7 +37,7 @@
 
 
 <div class="workw_btn">
-<a class="btn09 btnGold"><span>Explore Opportunities <i class="fa-solid fa-arrow-down-long" aria-hidden="true"></i></span></a>
+<a class="btn09 btnGold" href="#CareerOpportunities"><span>Explore Opportunities <i class="fa-solid fa-arrow-down-long" aria-hidden="true"></i></span></a>
 
 <a class="btn09 btnGrey"><span>Join Us on LinkedIn <i class="fab fa-linkedin-in" aria-hidden="true"></i></span></a>
 </div>
@@ -106,7 +106,7 @@
 </div>
 </div>
 
-<div class="engagementScore_item"><img src="assets/images/work_with_us/engagement_score.jpg" alt="Engagement Score"></div>
+<div class="engagementScore_item"><img src="assets/images/countdown.gif" id="gif" alt="Engagement Score"></div>
 
 <div class="engagementScore_item"><div class="engagementScore_data">
 <div class="df"><h5>Positivity Index</h5>
@@ -140,7 +140,6 @@
 </div></section>
 <!-- engagementScore End -->
 
-
 <!-- Why TRUST -->
 <section class="voiceOfTrust center"><div class="container pr">
 <h2 class="heading">Voice of <span class="textGold">TRUSTians</span> </h2>
@@ -148,34 +147,34 @@
 <div class="voiceOfTrust_wrapper">
 <div class="voiceOfTrust_slick slick-slider">
 
+<div class="item"><a href="https://www.youtube.com/watch?v=a1bWLeOrk98" data-fancybox>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="https://img.youtube.com/vi/a1bWLeOrk98/maxresdefault.jpg"></div>
+<div class="voiceOfTrust_data"> TRUST AWARDS RAPID FIRE  </div>
+</a></div>
+
 <div class="item"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video.jpg"></div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video.jpg"></div>
 <div class="voiceOfTrust_data">Title 01</div>
 </a></div>
 
 <div class="item"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video.jpg"></div>
+<div class="voiceOfTrust_data">Title 02</div>
 </a></div>
 
 <div class="item"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video.jpg"></div>
+<div class="voiceOfTrust_data">Title 03</div>
 </a></div>
 
 <div class="item"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video.jpg"></div>
+<div class="voiceOfTrust_data">Title 04</div>
 </a></div>
 
 <div class="item"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-
-<div class="item"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video.jpg"></div>
+<div class="voiceOfTrust_data">Title 05</div>
 </a></div>
 
 </div>
@@ -204,48 +203,92 @@
 <div class="voiceOfTrust_photos slick-slider">
 
 <div class="item">
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo1.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo2.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
+<div class="item_bg"><a data-fancybox="gallery1" href="assets/images/careers/life-at-trust/idcms-2023/idcms-01.jpg">
+<div class="voiceOfTrust_img"><img src="assets/images/careers/life-at-trust/idcms-2023/idcms-01.jpg"></div>
+<div class="voiceOfTrust_data">IDCMS - 2023</div>
+</a>
+<!-- Images -->
+<a data-fancybox="gallery1" class="none" href="assets/images/careers/life-at-trust/idcms-2023/idcms-02.jpg"></a>
+<a data-fancybox="gallery1" class="none" href="assets/images/careers/life-at-trust/idcms-2023/idcms-03.jpg"></a>
+<a data-fancybox="gallery1" class="none" href="assets/images/careers/life-at-trust/idcms-2023/idcms-04.jpg"></a>
+<a data-fancybox="gallery1" class="none" href="assets/images/careers/life-at-trust/idcms-2023/idcms-05.jpg"></a>
+<!-- Images End-->
+</div>
+
+
+<div class="item_bg"><a data-fancybox="gallery2" href="assets/images/careers/life-at-trust/republic-day/republic-day-1.jpg">
+<div class="voiceOfTrust_img"><img src="assets/images/careers/life-at-trust/republic-day/republic-day-1.jpg"></div>
+<div class="voiceOfTrust_data">Republic Day</div>
+</a>
+<!-- Images -->
+<a data-fancybox="gallery2" class="none" href="assets/images/careers/life-at-trust/republic-day/republic-day-2.jpg"></a>
+<a data-fancybox="gallery2" class="none" href="assets/images/careers/life-at-trust/republic-day/republic-day-3.jpg"></a>
+<a data-fancybox="gallery2" class="none" href="assets/images/careers/life-at-trust/republic-day/republic-day-4.jpg"></a>
+<a data-fancybox="gallery2" class="none" href="assets/images/careers/life-at-trust/republic-day/republic-day-5.jpg"></a>
+<!-- Images End-->
+</div>
+
 </div>
 
 <div class="item">
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo3.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo4.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
+<div class="item_bg"><a data-fancybox="gallery3" href="assets/images/careers/life-at-trust/top-performers/top-performers-01.jpg">
+<div class="voiceOfTrust_img"><img src="assets/images/careers/life-at-trust/top-performers/top-performers-01.jpg"></div>
+<div class="voiceOfTrust_data">Top Performers</div>
+</a>
+<!-- Images -->
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-02.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-03.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-04.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-05.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-06.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-07.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-08.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-09.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-10.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-11.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-12.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-13.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-14.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-15.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-16.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-17.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-18.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-19.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-20.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-21.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-22.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-23.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-24.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-25.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-26.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-27.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-28.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-29.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-30.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-31.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-32.jpg"></a>
+<a data-fancybox="gallery3" class="none" href="assets/images/careers/life-at-trust/top-performers/top-performers-33.jpg"></a>
+<!-- Images End-->
 </div>
 
-<div class="item">
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo1.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo2.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
+
+<div class="item_bg"><a data-fancybox="gallery4" href="assets/images/careers/life-at-trust/womens-day/womens-day-01.jpg">
+<div class="voiceOfTrust_img"><img src="assets/images/careers/life-at-trust/womens-day/womens-day-01.jpg"></div>
+<div class="voiceOfTrust_data">Women Day</div>
+</a>
+<!-- Images -->
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-02.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-03.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-04.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-05.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-06.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-07.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-08.jpg"></a>
+<a data-fancybox="gallery4" class="none" href="assets/images/careers/life-at-trust/womens-day/womens-day-09.jpg"></a>
+<!-- Images End-->
+</div>
 </div>
 
-<div class="item">
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo3.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img"><img src="assets/images/work_with_us/photo4.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-</div>
 
 </div>
 
@@ -262,46 +305,47 @@
 
 <div class="voiceOfTrust_video slick-slider">
 
+
 <div class="item">
 <div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video1.jpg"></div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video3.jpg"></div>
 <div class="voiceOfTrust_data">Title 01</div>
 </a></div>
 <div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video2.jpg"></div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video4.jpg"></div>
+<div class="voiceOfTrust_data">Title 01</div>
+</a></div>
+</div>
+<div class="item">
+<div class="item_bg"><a href="#">
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video3.jpg"></div>
+<div class="voiceOfTrust_data">Title 01</div>
+</a></div>
+<div class="item_bg"><a href="#">
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video4.jpg"></div>
+<div class="voiceOfTrust_data">Title 01</div>
+</a></div>
+</div>
+
+
+<div class="item">
+<div class="item_bg"><a href="#">
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video1.jpg"></div>
+<div class="voiceOfTrust_data">Title 01</div>
+</a></div>
+<div class="item_bg"><a href="#">
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video2.jpg"></div>
 <div class="voiceOfTrust_data">Title 01</div>
 </a></div>
 </div>
 
 <div class="item">
 <div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video3.jpg"></div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video3.jpg"></div>
 <div class="voiceOfTrust_data">Title 01</div>
 </a></div>
 <div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video4.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-</div>
-
-<div class="item">
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video1.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video2.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-</div>
-
-<div class="item">
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video3.jpg"></div>
-<div class="voiceOfTrust_data">Title 01</div>
-</a></div>
-<div class="item_bg"><a href="#">
-<div class="voiceOfTrust_img ifVidoe vdWhite"><img src="assets/images/work_with_us/video4.jpg"></div>
+<div class="voiceOfTrust_img ifVidoe vdRed"><img src="assets/images/work_with_us/video4.jpg"></div>
 <div class="voiceOfTrust_data">Title 01</div>
 </a></div>
 </div>
@@ -355,11 +399,25 @@
 <!-- Application Process End -->
 
 <!-- Career Opportunities -->
-<section class="CareerOpportunities"><div class="container pr">
+<section class="CareerOpportunities" id="CareerOpportunities"><div class="container pr">
 
 <div class="center">
     <h2 class="heading">Career Opportunities</h2>
     <p class="textGrey2">Select the position you are interested in applying for by filtering your preferences.</p>
+
+
+<div class="df selectpicker_row">
+<select class="selectpicker">
+<option>Position</option>
+<option>option 1</option>
+<option>option 2</option>
+<option>option 3</option>
+</select>
+
+</div>
+
+
+
 </div>
 
 <div class="careerOpportunities_wrapper"><div class="accordion accordion09S1 accordion09S1Ex">
@@ -549,7 +607,7 @@ var jQueryslider = jQuery('.voiceOfTrust_photos').slick({
         {
             breakpoint: 768,
             settings: {
-                slidesToShow: 1
+                slidesToShow: 2
             }
         }
     ]
@@ -575,7 +633,7 @@ var jQueryslider = jQuery('.voiceOfTrust_video').slick({
         {
             breakpoint: 768,
             settings: {
-                slidesToShow: 1
+                slidesToShow: 2
             }
         }
     ]
@@ -586,12 +644,28 @@ jQuery('.nextArrowvoiceOfTrust_video').click(function() {jQueryslider.slick('sli
 });
 // voiceOfTrust_video
 
-
-
-
+ 
 
 </script>
-
+<script>
+// Function to play the GIF when it comes into view
+function playGifOnceOnScroll() {
+    var gif = document.getElementById("gif");
+    var bounding = gif.getBoundingClientRect();
+    var isInViewport = (
+        bounding.top >= 0 &&
+        bounding.left >= 0 &&
+        bounding.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        bounding.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+    if (isInViewport && !gif.getAttribute("data-played")) {
+        gif.src = gif.src; 
+        gif.setAttribute("data-played", "true"); 
+    }
+}
+window.addEventListener("scroll", playGifOnceOnScroll);
+w.addEventListener("scroll", playGifOnScroll);
+</script>
 
 </body>
 </html>

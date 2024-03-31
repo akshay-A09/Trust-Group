@@ -101,7 +101,7 @@
     </div>
 </div>
 <div class="about_wrapper_right w-100 wow fadeInUp" id="aboutSection">
-    <ul>
+    <ul class="countList">
         <li>
             <h2><span class="count">20</span>+</h2>
             <p>Years of Wealth<br> Creation</p>
@@ -134,9 +134,10 @@
 <!-- About End -->
 
 <section class="heroSection"><div class="container">
-<div class="heroSection_text wow fadeIn " style="animation-duration:2s; animation-delay:0.5s; ">
-<h2 class="headingXL">Creating <span>Value,</span></h2>
-<h2 class="headingXL">Beyond <span>Transactions</span></h2>
+    
+<div class="heroSection_text">
+<h2 class="headingXL wow bounceInLeft">Creating <span>Value,</span></h2>
+<h2 class="headingXL wow bounceInRight">Beyond <span>Transactions</span></h2>
 </div>
 </div></section>
 
@@ -294,27 +295,21 @@
 <div class="heroVoices_slick slick-slider">
     
 <div class="item"><div class="heroVoicesData">
-<div class="heroVoices_img"><img src="assets/images/logos/mahindra-finance2.png" alt="Mahindra Financial"></div>
-<div class="heroVoices_data">“TRUST successfully lead managed Mahindra & Mahindra Financial Services Limited, one of India's leading NBFC's first ever public issue of bonds.”</div>
-<div class="heroVoices_name"><h3>Ramesh Iyer</h3><p>Vice-chairman and MD, Mahindra Finance</p></div>
+<div class="heroVoices_img"><img src="assets/images/logos/hero-logo.png" alt=""></div>
+<div class="heroVoices_data">"Such competitively priced instruments are the way forward in reducing the cost of financing and thereby the cost of energy in India.”</div>
+<div class="heroVoices_name"><h3>Mr. Sunil Jain</h3><p>CEO of Hero Future Energies</p></div>
 </div></div>
 
 <div class="item"><div class="heroVoicesData">
-<div class="heroVoices_img"><img src="assets/images/logos/mahindra-finance2.png" alt="Mahindra Financial"></div>
-<div class="heroVoices_data">“TRUST successfully lead managed Mahindra & Mahindra Financial Services Limited, one of India's leading NBFC's first ever public issue of bonds.”</div>
-<div class="heroVoices_name"><h3>Ramesh Iyer</h3><p>Vice-chairman and MD, Mahindra Finance</p></div>
+<div class="heroVoices_img heroVoices_img_cust"><img src="assets/images/logos/gspc-group-logo.png" alt=""></div>
+<div class="heroVoices_data">“TRUST through in-depth knowledge of the debt market, exhaustive penetration in long term investor segment and competitiveness was successful in helping this state level undertaking mobilize 85% of its fund requirements without any government guarantee. This was also a landmark deal in markets owing to the size of mobilization on firm commitment basis.”</div>
+<div class="heroVoices_name"><h3>GSPC Group</h3></div>
 </div></div>
 
 <div class="item"><div class="heroVoicesData">
-<div class="heroVoices_img"><img src="assets/images/logos/mahindra-finance2.png" alt="Mahindra Financial"></div>
-<div class="heroVoices_data">“TRUST successfully lead managed Mahindra & Mahindra Financial Services Limited, one of India's leading NBFC's first ever public issue of bonds.”</div>
-<div class="heroVoices_name"><h3>Ramesh Iyer</h3><p>Vice-chairman and MD, Mahindra Finance</p></div>
-</div></div>
-
-<div class="item"><div class="heroVoicesData">
-<div class="heroVoices_img"><img src="assets/images/logos/mahindra-finance2.png" alt="Mahindra Financial"></div>
-<div class="heroVoices_data">“TRUST successfully lead managed Mahindra & Mahindra Financial Services Limited, one of India's leading NBFC's first ever public issue of bonds.”</div>
-<div class="heroVoices_name"><h3>Ramesh Iyer</h3><p>Vice-chairman and MD, Mahindra Finance</p></div>
+<div class="heroVoices_img"><img src="assets/images/logos/boi_en_US_logo.png" alt=""></div>
+<div class="heroVoices_data">“With expertise in creating and establishing markets for complex instruments, TRUST enabled the bank to shore up its capital base by Rs. 2,500 crores.”</div>
+<div class="heroVoices_name"><h3>Bank of India</h3></div>
 </div></div>
 
 a></div>
