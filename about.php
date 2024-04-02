@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us | Trust Group</title>
+    <title>About | Trust Group</title>
     <?php include 'head.php'; ?>
 </head>
 <body>
