@@ -15,14 +15,13 @@
   <div class="container">
   <div class="subHeader_wrapper">
   <div class="subHeader_left">
-    <span>Home</span> / <span>Plutus</span> 
+    <span>Home</span> / <span>TRUSTPLUTUS</span> 
   </div>
   <div class="subHeader_nav">
     <a href="#">Overview</a>
-    <a href="#aboutSection">Investment Banking</a>
-    <a href="#Capital_Market_Services">Capital Market Services</a>
-    <a href="#Products">Products</a>
-    <a href="#GetInTouch">Contact</a>
+    <a href="#WhatWeOffer">What We Offer</a>
+    <a href="#HowWeWork">How We Work </a>
+    <a href="#GetInTouch">Get in Touch</a>
   </div>
 
 
@@ -39,7 +38,7 @@
 
 
 <!-- About -->
-<section class="aboutMain backBG_work" id="aboutSection">
+<section class="aboutMain backBG_work">
 
 <div class="backBG_work_img">
   <img src="assets/images/debt.jpg" style="object-position: bottom left;">
@@ -94,9 +93,11 @@
 </div></section>
 
 <!-- What We Offer -->
-<section class="whatWeOffer"><div class="container">
+<section class="whatWeOffer" id="WhatWeOffer">
+<div class="container">
 <h5 class="heading_top tu textGold">What We Offer</h5>
 <h2 class="heading textBlack">Multi-family office range of services</h2>
+<p class="textGrey2">We offer a gamut of products and services that include proprietary solutions with an inexpensive cost structure.</p>
 <div class="whatWeOffer_row">
 
 <div class="whatWeOffer_left">
@@ -118,21 +119,29 @@
 
 <div id="ibcs-tab" class="tab-content active"><div class="tab-content_row">
 <ul>
-        <li>Wealth management & Investment Advisory</li>
-        <li>Proprietary Wealth Management Solutions</li>
-        <li>Taxation</li>
-        <li>Compliance</li>  
+        <li><b>Wealth management & Investment Advisory</b></li>
+        <li><b>Proprietary Wealth Management Solutions</b></li>
+        <li><b>Taxation</b></li>
+        <li><b>Compliance</b></li>  
       </ul>
 </div></div>
 
 <div id="mbd-tab" class="tab-content"><div class="tab-content_row">
-<h3>Merchant  Banking (MBD) </h3>  
-<p>We are a Category I Merchant Banker, providing services such as underwriting securities, advising on corporate restructuring, mergers and acquisitions, and portfolio management services, among others.</p>
+<ul>
+        <li><b>Non-Discretionary PMS</b></li>
+        <li><b>Financing</b></li>
+        <li><b>Real Estate</b></li>
+        <li><b>Protection</b></li> 
+        <li><b>Offshore solutions</b></li>
+      </ul>
 </div></div>
 
 <div id="structuring-tab" class="tab-content"><div class="tab-content_row">
-<h3>Structuring</h3>  
-<p>Our structuring team acts as the catalyst for innovative debt instruments, working hand-in-hand with clients, traders, salespeople, and analysts to unlock your unique financial goals.</p>
+<ul>
+        <li><b>Succession planning</b></li>
+        <li><b>Next generation education</b></li>
+        <li><b>Philanthropy</b></li>
+      </ul>
 </div></div>
 
 </div>
@@ -144,9 +153,9 @@
 
 
 <!-- Why TRUST -->
-<section class="whyTRUST center"><div class="container">
+<section class="whyTRUST center" id="HowWeWork">
+  <div class="container">
 <h5 class="heading_top tu textGold">How We Work</h5>
-<h2 class="heading">Lorem Ipsum</h2>
 
 <div class="whyTRUST_wrapper"><ul>
 <li>
@@ -222,7 +231,7 @@
   <hr class="hrGold line">
 
 <div class="contactMinUlBottom center">
-  <h3>For more information, visit <a href="https://trustsecuirties.in" target="_blank" class="textGold">trustsecuirties.in</a></h3>
+  <h3>For more information, visit <a href="https://trustplutus.com/" target="_blank" class="textGold">trustplutus.com</a></h3>
 </div>
 
 </div>

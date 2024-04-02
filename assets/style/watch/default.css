@@ -3246,6 +3246,7 @@ footer .footer_bottom {
   padding: 50px;
   left: 0;
   bottom: 0;
+  line-height: 3;
 }
 .whatWeOffer .whatWeOffer_row .whatWeOffer_right .tab-content .tab-content_row h3 {
   margin-bottom: 10px;
