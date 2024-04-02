@@ -34,8 +34,6 @@
 
     <p>If our ethos resonates with you and you seek to draw strength from a highly collaborative and intellectually stimulating environment, we welcome you to explore your career opportunity with us at TRUST.</p>
 
-
-
 <div class="workw_btn">
 <a class="btn09 btnGold" href="#CareerOpportunities"><span>Explore Opportunities <i class="fa-solid fa-arrow-down-long" aria-hidden="true"></i></span></a>
 
@@ -407,23 +405,21 @@
 
 
 <div class="df selectpicker_row">
-<select class="selectpicker">
-<option>Position</option>
-<option>option 1</option>
-<option>option 2</option>
-<option>option 3</option>
+<select class="selectpicker" id="selectOption">
+<option selected disabled>Select Option</option>
+<option value="InstitutionalSalesRelationshipManager">Institutional Sales Relationship Manager</option>
+<option value="VicePresident">Vice President</option>
+<option value="SouthSalesHead">South Sales Head</option>
+<option value="InstitutionalCreditSales">Institutional Credit Sales</option>
 </select>
-
 </div>
-
-
 
 </div>
 
 <div class="careerOpportunities_wrapper"><div class="accordion accordion09S1 accordion09S1Ex">
 
-<div class="accordion-item is-active">
-<h3 class="accordion-thumb">Institutional Sales Relationship Manager- Mutual Fund- Senior Manager</h3>
+<div class="accordion-item box InstitutionalSalesRelationshipManager is-active">
+<h3 class="accordion-thumb">Institutional Sales Relationship Manager - Mutual Fund- Senior Manager</h3>
 <div class="accordion-panel"> 
 <div class="accordion-panel_data">    
 <p>TRUST is seeking to hire an MBA with finance and sales specialization with an experience of 2-5 years with in AMC Industry in Mutual Funds Institutional sales at our Hyderabad/Pune/Jaipur/Lucknow office.</p>
@@ -446,22 +442,22 @@
 </div>
 </div>
 
-<div class="accordion-item">
+<div class="accordion-item box VicePresident is-active">
 <h3 class="accordion-thumb">Vice President – NBFC Sales – Capital Market</h3>
 <div class="accordion-panel"> text</div>
 </div>
 
-<div class="accordion-item">
-<h3 class="accordion-thumb">Institutional Sales Relationship Manager- Mutual Fund- Associate Vice President</h3>
+<div class="accordion-item box InstitutionalSalesRelationshipManager">
+<h3 class="accordion-thumb">Institutional Sales Relationship Manager - Mutual Fund- Associate Vice President</h3>
 <div class="accordion-panel"> text</div>
 </div>
 
-<div class="accordion-item">
+<div class="accordion-item box SouthSalesHead is-active">
 <h3 class="accordion-thumb">South Sales Head - Mutual Fund</h3>
 <div class="accordion-panel"> text</div>
 </div>
 
-<div class="accordion-item">
+<div class="accordion-item box InstitutionalCreditSales is-active">
 <h3 class="accordion-thumb">Institutional Credit Sales – Capital Market – Vice President</h3>
 <div class="accordion-panel"> text</div>
 </div>
@@ -472,7 +468,7 @@
 
 
 <!-- Apply Now -->
-<section class="applyNow"><div class="container pr">
+<section class="applyNow" id="applyNow"><div class="container pr">
 <div class="applyNow_wrapper df">
 
 <div class="applyNow_data">
@@ -664,8 +660,29 @@ function playGifOnceOnScroll() {
     }
 }
 window.addEventListener("scroll", playGifOnceOnScroll);
-w.addEventListener("scroll", playGifOnScroll);
+window.addEventListener("scroll", playGifOnScroll);
 </script>
 
+
+<script>
+  document.getElementById('selectOption').addEventListener('change', function() {
+    var selectedColor = this.value;
+    var boxes = document.querySelectorAll('.accordion-item');
+    boxes.forEach(function(box) {
+      box.classList.remove('active'); 
+      if (box.classList.contains(selectedColor)) {
+        box.classList.add('active');
+      }
+    });
+
+    // Toggle applyNow div based on selected value
+    var applyNowDiv = document.getElementById('applyNow');
+    if (selectedColor !== 'Select Option') {
+      applyNowDiv.classList.add('show');
+    } else {
+      applyNowDiv.classList.remove('show');
+    }
+  });
+</script>
 </body>
 </html>

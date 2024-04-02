@@ -134,10 +134,9 @@
 <!-- About End -->
 
 <section class="heroSection"><div class="container">
-    
-<div class="heroSection_text">
-<h2 class="headingXL wow bounceInLeft">Creating <span>Value,</span></h2>
-<h2 class="headingXL wow bounceInRight">Beyond <span>Transactions</span></h2>
+<div class="heroSection_text wow fadeIn " style="animation-duration:2s; animation-delay:0.5s; ">
+<h2 class="headingXL">Creating <span>Value,</span></h2>
+<h2 class="headingXL">Beyond <span>Transactions</span></h2>
 </div>
 </div></section>
 

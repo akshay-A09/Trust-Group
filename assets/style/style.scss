@@ -2887,13 +2887,26 @@ a{padding: 10px;display: block;}
 
     .careerOpportunities_wrapper{
         margin-top: 50px;
+        .accordion-item{
+            display: none;
+            &.active{
+                display: block;
+            }
+        }
     }
 }
 // CareerOpportunities End
 
 
 // Apply Now
+#applyNow{
+    display: none;
+    &.show{
+        display: block;
+    }
+}
 .applyNow{
+
     .applyNow_wrapper{
         .applyNow_data{
             width: 100%;

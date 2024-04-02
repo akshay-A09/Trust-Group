@@ -2651,6 +2651,19 @@ footer .footer_bottom {
 .CareerOpportunities .careerOpportunities_wrapper {
   margin-top: 50px;
 }
+.CareerOpportunities .careerOpportunities_wrapper .accordion-item {
+  display: none;
+}
+.CareerOpportunities .careerOpportunities_wrapper .accordion-item.active {
+  display: block;
+}
+
+#applyNow {
+  display: none;
+}
+#applyNow.show {
+  display: block;
+}
 
 .applyNow .applyNow_wrapper .applyNow_data {
   width: 100%;

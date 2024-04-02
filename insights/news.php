@@ -23,7 +23,7 @@ to raise up to Rs 2,000 cr via NCDs</h2>
 
 <div class="feture_img"><img src="../assets/images/feture_img.jpg"></div>
 
-<div class="insights_page_content">
+<div class="insights_page_content df">
 <div class="insights_page_content_left">
 
 <p>Mahindra and Mahindra Financial Services is planning to raise up to Rs 2,000 crore through non-convertible debentures (NCDs). Its public issue of NCDs with coupon rates ranging from 7.75% to 8.05% opens on July 10, and closes on July 28. The NCDs are being offered under three different series. For QIBs and corporates, the coupon rates for Series I, Series II and Series III having tenures of seven years, 10 years and 15 years, stand at 7.75%, 7.90% and 7.95% per annum, respectively, payable annually. For HNIs and retail individual investors, the coupon rates for Series I, Series II and Series III having tenures of seven years, 10 years, 15 years stand at 7.85%, 8.00% and 8.05% per annum, respectively, payable annually. The 15-year NCDs have a call option at the end of 10 years. The company said the funds raised will be used for onward lending, financing, refinancing the existing indebtedness, long-term and working capital and general corporate purposes. Edelweiss Financial Services, Axis Bank, AK Capital Services, Trust Investment Advisors and Yes Securities are the lead managers to the issue.</p>
@@ -129,11 +129,6 @@ to raise up to Rs 2,000 cr via NCDs</h2>
 
 </div>
 </div>
-
-
-<div class="clearfix"></div>
-
-
 </div>
 
 
