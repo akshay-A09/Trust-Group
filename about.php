@@ -18,7 +18,7 @@
 <div class="about_wrapper_left  w-90 wow fadeInUp"  id="aboutSection">
     <h5 class="heading_top tu textGold">About Us</h5>
     <h2 class="heading">India’s leading institutionalized multi-line and multi-asset financial services platform</h2>
-    <p>With over 20 year of experience, we provide solutions and services across multiple asset classes like debt, equity and real assets. A natural market leader in Debt Capital market League tables in past decade.</p>
+    <p>With over 200 year of experience, we provide solutions and services across multiple asset classes like debt, equity and real assets. A natural market leader in Debt Capital market League tables in past decade.</p>
 
     <p>Partnership with clients. Value-creation beyond transaction. Longevity and long-term perspective. Above all, CLIENT FIRST. This is our DNA.</p>
 
