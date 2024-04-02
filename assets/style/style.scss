@@ -3393,7 +3393,27 @@ img{
                 h3{
                     margin-bottom: 10px;
                     font-size: 19px;
+                    position: relative;
+                    &::after{
+                        content:'';
+                        display: block;
+                        position: absolute;
+                        width: 100%;
+                        height: 1px;
+                        background: $grey2;
+                        left: 0;
+                        right: 0;
+                        bottom:-45px;
+                    }
                 }
+                &:last-child{
+                    h3{
+                        &::after{
+                            display: none;
+                        }
+                    }
+                }
+
                 &::after{
                     content: '';
                     background-image: url(../../images/icon/arrow.png);
@@ -3637,6 +3657,37 @@ img{
     }
 }
 // products End
+
+// assetsAllocation
+.assetsAllocation{
+    .assets-list ul{display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 70px;
+        li{
+            display: flex; 
+            background-color: #EAE8DC;
+            border-radius: 70px;
+            width: 100%;
+            height: 70px;
+            div{
+                display: flex;
+                color: #fff;
+                width: 70px;
+                border-radius: 100%;
+                height: 100%;
+                margin-left: 0;
+                align-items: center;
+                background-color: #E3D8C4;
+                font-size: 25px;
+            }
+            h3{margin-left: 0; width: 68%;}
+        }
+     }
+
+}
+
+
+// assetsAllocation end
 
 
 // Responsive
@@ -3909,6 +3960,9 @@ footer .footer_faq .footer_faq_title .f_faqBtn{padding: 10px;}
      .insights_list ul{grid-template-columns: repeat(1, 1fr);}
      .backBG_work .workw_btn{display: block;text-align: center;}
      .backBG_work .workw_btn a{margin-top: 10px;}
+
+     .assetsAllocation .assets-list ul{display: block;}
+     .assetsAllocation .assets-list ul li{margin-bottom: 20px;}
 }
 
 
