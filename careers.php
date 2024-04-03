@@ -444,22 +444,108 @@
 
 <div class="accordion-item box VicePresident is-active">
 <h3 class="accordion-thumb">Vice President – NBFC Sales – Capital Market</h3>
-<div class="accordion-panel"> text</div>
+<div class="accordion-panel"> 
+<div class="accordion-panel_data">    
+<p>TRUST is seeking to hire MBA/PGDM in finance with an experience of 7-10 years in financial institution /Debt market OR worked in an advisory/ consultancy firm at our Mumbai office.</p>
+<h4>Core Purpose of the Role:</h4>
+<ul>
+<li>Managing the entire DCM sales process; building and managing sales proposals/ presentations and generate leads with NBFC clients </li>
+ <li>Business development: Proactively source, acquire and expand high value customer relationship by maximizing sales and service opportunities in NBFC sector </li>
+ <li>Client Engagement </li>
+ <li>Drive and Monitor Revenue and Volume targets and maintain the market mapping for each client</li>
+</ul>
+
+<h5>Applicable candidatures can be sent to <a href="mailto:talent@trustgroup.in" target="_blank">talent@trustgroup.in</a></h5>
+
+
+<div class="btnRow">
+<a href="#applyNow_form" class="btn093 btnGold"><span>Apply Here <i class="fa-solid fa-arrow-right arrowR" aria-hidden="true"></i></span></a>
+</div>
+
+</div>
+
+</div>
 </div>
 
 <div class="accordion-item box InstitutionalSalesRelationshipManager">
 <h3 class="accordion-thumb">Institutional Sales Relationship Manager - Mutual Fund- Associate Vice President</h3>
-<div class="accordion-panel"> text</div>
+<div class="accordion-panel"> 
+<div class="accordion-panel_data">    
+<p>TRUST is seeking to hire an MBA with finance and sales specialization with an experience of 10 years with in AMC Industry in Mutual Funds institutional sales at our Mumbai office. </p>
+<h4>Core Purpose of the Role:</h4>
+<ul>
+<li>Acquire new clients and build the institutional/corporate client base for MF business </li>
+ <li>Responsible for locating potential sales leads through market research and following up to convert leads into business relationship’s </li>
+ <li>Leverage on market opportunities and develop new client relationships and accounts</li>
+ <li>Generating innovative ideas for new client acquisition </li>
+ <li>Advising corporate client based on their cash flow forecasting.</li>
+ <li>Analyze client portfolios and make necessary suggestions.</li>
+ <li>Ensure highest levels of customer service </li>
+</ul>
+
+<h5>Applicable candidatures can be sent to <a href="mailto:talent@trustgroup.in" target="_blank">talent@trustgroup.in</a></h5>
+
+
+<div class="btnRow">
+<a href="#applyNow_form" class="btn093 btnGold"><span>Apply Here <i class="fa-solid fa-arrow-right arrowR" aria-hidden="true"></i></span></a>
+</div>
+
+</div>
+
+</div>
 </div>
 
 <div class="accordion-item box SouthSalesHead is-active">
 <h3 class="accordion-thumb">South Sales Head - Mutual Fund</h3>
-<div class="accordion-panel"> text</div>
+<div class="accordion-panel"> 
+<div class="accordion-panel_data">    
+<p>TRUST is seeking to Hire MBA/PGDM in Finance with an experience of 10 years within AMC industry in Mutual Funds, Institutional Sales at our Bangalore office.</p>
+<h4>Core Purpose of the Role:</h4>
+<ul>
+<li>Responsible for growth of business in south India – both retail, partnerships and Institutional business </li>
+ <li>Generating innovative ideas for new client acquisition </li>
+ <li>Acquire new clients and build the institutional/corporate client base for fixed income MF business Responsible for locating potential sales leads through market research and following up to convert leads into business relationship’s</li>
+ <li>Leverage on market opportunities and develop new client relationships and accounts </li>
+ <li>Build and manage a capable and motivated team of sales and service colleagues </li>
+</ul>
+
+<h5>Applicable candidatures can be sent to <a href="mailto:talent@trustgroup.in" target="_blank">talent@trustgroup.in</a></h5>
+
+
+<div class="btnRow">
+<a href="#applyNow_form" class="btn093 btnGold"><span>Apply Here <i class="fa-solid fa-arrow-right arrowR" aria-hidden="true"></i></span></a>
+</div>
+
+</div>
+
+
+</div>
 </div>
 
 <div class="accordion-item box InstitutionalCreditSales is-active">
 <h3 class="accordion-thumb">Institutional Credit Sales – Capital Market – Vice President</h3>
-<div class="accordion-panel"> text</div>
+<div class="accordion-panel">
+<div class="accordion-panel_data">    
+<p>TRUST is seeking to hire an MBA or CA/CFA within the Fixed Income industry with at least 10 years of experience in institutional sales and substantial focus on credit instruments.</p>
+<h4>Core Purpose of the Role:</h4>
+<ul>
+<li>Acquire new clients and build the institutional/corporate client base for fixed income business </li>
+ <li>Responsible for locating potential sales leads through market research and following up to convert leads into business relationships</li>
+ <li>Leverage on market opportunities and develop new client relationships and accounts</li>
+ <li>Generating innovative ideas for new client acquisition</li>
+</ul>
+
+<h5>Applicable candidatures can be sent to <a href="mailto:talent@trustgroup.in" target="_blank">talent@trustgroup.in</a></h5>
+
+
+<div class="btnRow">
+<a href="#applyNow_form" class="btn093 btnGold"><span>Apply Here <i class="fa-solid fa-arrow-right arrowR" aria-hidden="true"></i></span></a>
+</div>
+
+</div>
+
+
+</div>
 </div>
 
 </div></div>

@@ -2400,22 +2400,47 @@ footer .footer_bottom {
 }
 .whyTRUST .whyTRUST_wrapper ul li {
   padding: 70px 20px;
-  background: #EAE8DC;
+  position: relative;
   border-radius: 20px;
   margin: 0;
+  transition: all 0.5s ease-in-out;
+  overflow: hidden;
+  background-color: #EAE8DC;
+}
+.whyTRUST .whyTRUST_wrapper ul li::after {
+  background: #E3D8C4;
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 100%;
+  right: 0;
+  left: inherit;
+  top: 0;
+  transition: all 0.5s ease-in-out;
 }
 .whyTRUST .whyTRUST_wrapper ul li .whyTRUST_img {
   width: 100px;
   border-radius: 100%;
   overflow: hidden;
+  position: relative;
+  z-index: 2;
   margin-bottom: 20px;
 }
 .whyTRUST .whyTRUST_wrapper ul li .whyTRUST_img img {
   width: 100%;
   display: block;
 }
+.whyTRUST .whyTRUST_wrapper ul li .whyTRUST_data {
+  position: relative;
+  z-index: 2;
+}
 .whyTRUST .whyTRUST_wrapper ul li .whyTRUST_data h3 {
   padding: 10px 0;
+}
+.whyTRUST .whyTRUST_wrapper ul li:hover::after {
+  right: inherit;
+  left: 0;
+  width: 100%;
 }
 
 .engagementScore .heading {
@@ -2576,12 +2601,16 @@ footer .footer_bottom {
   display: block;
   height: 100%;
   object-fit: cover;
+  transition: all 0.5s ease-in-out;
 }
 .voiceOfTrust .voiceOfTrust_wrapper .voiceOfTrust_row .item .item_bg a .voiceOfTrust_data {
   padding: 10px 0;
   font-weight: 700;
   font-size: 17px;
   margin-bottom: 10px;
+}
+.voiceOfTrust .voiceOfTrust_wrapper .voiceOfTrust_row .item .item_bg a:hover img {
+  scale: 1.1;
 }
 
 .applicationProcess .applicationProcess_wrapper {
@@ -3246,7 +3275,6 @@ footer .footer_bottom {
   padding: 50px;
   left: 0;
   bottom: 0;
-  line-height: 3;
 }
 .whatWeOffer .whatWeOffer_row .whatWeOffer_right .tab-content .tab-content_row h3 {
   margin-bottom: 10px;
@@ -3458,6 +3486,10 @@ footer .footer_bottom {
 .assetsAllocation .assets-list ul li h3 {
   margin-left: 0;
   width: 68%;
+}
+
+.whatWeOffer .whatWeOffer_row .whatWeOffer_right .tab-content .tab-content_row li {
+  padding-bottom: 15px;
 }
 
 @media screen and (max-width: 1450px) {

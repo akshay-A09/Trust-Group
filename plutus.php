@@ -41,7 +41,7 @@
 <section class="aboutMain backBG_work">
 
 <div class="backBG_work_img">
-  <img src="assets/images/debt.jpg" style="object-position: bottom left;">
+  <img src="assets/images/plutus-bnnr.jpg" style="object-position: bottom left;">
 </div>
 
 <div class="container pr">
@@ -50,7 +50,7 @@
 <div class="about_wrapper_left  w-50 m-0">
     <h5 class="heading_top tu textGold">Wealth  Management</h5>
     <img class="mt-20" src="assets/images/trust-plutus.png">
-    <h2 class="heading mt-20">A Transparent Approach to Wealth  Management</h2>
+    <h2 class="heading mt-20">Your Trusted Multigenerational Partner in Wealth Creation</h2>
     <p>TrustPlutus is the Wealth Management arm of TRUST, an independent and trusted Wealth Management Firm that focuses on your investment needs and the best way to meet those needs. We provide you with an open architecture platform for investing. We have a fiduciary responsibility to act in your best interest. A client-centric platform offering bespoke wealth solutions.</p>
 
   
@@ -78,7 +78,7 @@
 <!-- About End -->
 
 <section class="assetsAllocation"><div class="container">
-<h2 class="heading textBlack">Your Asset Allocation</h2>
+<h2 class="heading textBlack">Asset Allocation Led Open Architecture Model</h2>
 
 <div class="assets-list">
 <ul>
@@ -98,7 +98,7 @@
 <h5 class="heading_top tu textGold">What We Offer</h5>
 <h2 class="heading textBlack">Multi-family office range of services</h2>
 <p class="textGrey2">We offer a gamut of products and services that include proprietary solutions with an inexpensive cost structure.</p>
-<div class="whatWeOffer_row">
+<div class="whatWeOffer_row mt-20">
 
 <div class="whatWeOffer_left">
   <div class="tab-container research_tabs">
@@ -115,7 +115,7 @@
   </div>
 </div>
 
-<div class="whatWeOffer_right" style="background-image: url(assets/images/what_we_offer.jpg);">
+<div class="whatWeOffer_right" style="background-image: url(assets/images/plutus-offer.jpg);">
 
 <div id="ibcs-tab" class="tab-content active"><div class="tab-content_row">
 <ul>
@@ -156,6 +156,7 @@
 <section class="whyTRUST center" id="HowWeWork">
   <div class="container">
 <h5 class="heading_top tu textGold">How We Work</h5>
+<h2 class="heading textBlack">How we work headline: We assess, recommend,<br> and manage tailored solutions for you</h2>
 
 <div class="whyTRUST_wrapper"><ul>
 <li>
