@@ -17,7 +17,7 @@
  
 
 <div class="item">
-    <div class="hero_img"><div style="background-image: url(assets/images/banner/our_dna.jpg);background-size:cover; background-position:center center"></div></div>
+    <div class="hero_img"><div style="background-image: url(assets/images/banner/banner-01.jpg);background-size:cover; background-position:center center"></div></div>
     <div class="hero_data"><div class="container"><div class="hero_data_wrapper">
     <div class="hero_title_top">Client First</div>
     <div class="hero_title">Our DNA</div>
@@ -26,7 +26,7 @@
 </div>
 
 <div class="item">
-    <div class="hero_img"><div style="background-image: url(assets/images/banner/our_core.jpg);background-size:cover; background-position:center center"></div></div>
+    <div class="hero_img"><div style="background-image: url(assets/images/banner/banner-02.jpg);background-size:cover; background-position:center center"></div></div>
     <div class="hero_data"><div class="container"><div class="hero_data_wrapper">
     <div class="hero_title_top">Thought Leadership</div>
     <div class="hero_title">Our Core</div>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="item">
-    <div class="hero_img"><div style="background-image: url(assets/images/banner/our_strength.jpg);background-size:cover; background-position:center center"></div></div>
+    <div class="hero_img"><div style="background-image: url(assets/images/banner/banner-03.jpg);background-size:cover; background-position:center center"></div></div>
     <div class="hero_data"><div class="container"><div class="hero_data_wrapper">
     <div class="hero_title_top">People Excellence</div>
     <div class="hero_title">Our Strength</div>

@@ -3492,6 +3492,33 @@ footer .footer_bottom {
   padding-bottom: 15px;
 }
 
+.error-trust {
+  width: 100%;
+}
+.error-trust .error-trusttxt {
+  margin: 40px 0;
+}
+.error-trust .error-trusttxt h1 {
+  font-size: 8rem;
+  margin-bottom: 20px;
+  color: #AF8315;
+  font-family: "Quicksand", sans-serif;
+}
+.error-trust .error-trusttxt h2 {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+.error-trust .error-trusttxt p {
+  padding: 20px;
+}
+.error-trust .error-trusttxt a span {
+  border: 2px solid #AF8315;
+  background: #AF8315;
+  padding: 10px;
+  border-radius: 20px;
+  color: #fff;
+}
+
 @media screen and (max-width: 1450px) {
   body .container {
     width: 90%;
